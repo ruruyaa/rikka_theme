@@ -1,6 +1,6 @@
 {
   "name": "Pastel Rikka Theme",
-  "description": "Pastel color theme for Discord Mobile Clients",
+  "description": "Pure Love Chunnibiyo & Other Delusions :)",
   "authors": [
     {
       "name": "ruru",
@@ -130,7 +130,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/ruruyaa/rikka_theme/refs/heads/main/rikka.jpg",
     "blur": 0.0,
-    "alpha": 1.0,
+    "alpha": 0.8,
     "size": "cover",
     "position": "center"
   },
