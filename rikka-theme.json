@@ -130,7 +130,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/ruruyaa/rikka_theme/refs/heads/main/rikka.jpg",
     "blur": 0.0,
-    "alpha": 0.8,
+    "alpha": 0.6,
     "size": "cover",
     "position": "center"
   },
